@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVelch embassadour, or the happy newes his vvorship hath brought to London. Together with her thirteene articles of acreements, which her propounds to all her cousens in her countiies [sic] and her cities to consider of.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96185</idno>
+            <idno type="STC">Wing W1314</idno>
+            <idno type="STC">Thomason E96_16</idno>
+            <idno type="STC">ESTC R5249</idno>
+            <idno type="EEBO-CITATION">99872820</idno>
+            <idno type="PROQUEST">99872820</idno>
+            <idno type="VID">155816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVelch embassadour, or the happy newes his vvorship hath brought to London. Together with her thirteene articles of acreements, which her propounds to all her cousens in her countiies [sic] and her cities to consider of.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Vnderwood,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+               <term>Wales --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155816:1" rendition="simple:additions"/>
+            <p>THE VVelch Embaſſadour, or the happy Newes his VVorſhip hath brought to London.</p>
+            <p>Together with her thirteene Articles of acreements, which her propounds to all her Couſens in her Countries and her Cities to conſider of.</p>
+            <figure/>
+            <p>Printed for <hi>I. <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rwood.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155816:2"/>
+            <head>THE VVelch Embaſſadour.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not uncaknowne to her oworlds that in her time of her Springs, or her ſummer ſeaſons, her Kings and Princes goe out with her troops and her company to Wars and to pattailes, as in her Low Countries does her couſen her Prince of Orange, and in her King<g ref="char:EOLhyphen"/>domes of England her couſen Prince <hi>Ruperts</hi> with her white Tog, which as her Moderns hold is a Prince diſguis'd; and alſo her owne Countriman prince <hi>Griffith</hi> who is gone out the Lord caknowes whither, with her troop in her beaten ſilver and her cold laces; for her thought it requiſite and fitting, it being her time of yeare when her mens and her 'omens are hot in her Reines and her p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks, and her motions and her agitations in her members &amp; her ploods, which makes her men goe to wars with her 'omens, and fight with her in her beds till her ſweat agen, to ſend her Embaſſadors to all her peo<g ref="char:EOLhyphen"/>ples and her natives to make her offers and her treaties of peace and attonements before her proceed to her open wars, in which her men ſhall be ſure to get holes in her pates, out of which her wounds ſhall ſpring up her hornes in ſuch number that her ſhall never be cur'd of while her has preath in her podies. And her would have her to take notice and good regards that her Embaſſadour is a Shentleman of Wales of fery ancient families, of a fery pig and a high houſe, and her anceſtors were with her couſen <hi>Noahs</hi> in her Arkes, and came into Prittaine with her progenitor <hi>Prutes,</hi> and was had in creat eſtimati<g ref="char:EOLhyphen"/>on ever ſince in her welch Mountains. In Winter her has her unca<g ref="char:EOLhyphen"/>known pallaces, and in Summer time her has her habutations in her oods and her Mountains, &amp; if her has deſire to underſtand her names, her is cald plaine <hi>Cuckows,</hi> for her affects no, other titles nor deno<g ref="char:EOLhyphen"/>minations then what hath been given to her anceſtors. Her cares <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in ſtates or in her pontificalibus, in her Coaches, or on her horſes; out her is carried like her couſen <hi>Perſeus</hi> through the avres, and twixt her Heavens and Earths, and takes her journies on her wings; her needs no interpreters, for her underſtand all her Lan<g ref="char:EOLhyphen"/>guages,
+<pb facs="tcp:155816:2"/>&amp; all her Nations underſtand her when her cryes <hi>Cuckows;</hi> and ſo much ſhall ſuffice for her deſcriptions of her perſons and her qualities; now her ſhall proceed to her Articles, and her effects of her Embaſſage. Her is ſent to all Chriſtian peoples, to her Tuckes and her Infidels, her Pagans and her Shews, to let her underſtand her pleaſures, which her has ſet downe as followeth.</p>
+            <p>Her firſt Article of acreements which her propounds is to her men and her wives, that live in her huge creat Cities which is, that her men ſhall in the time of her Springs provide her backs of Ar<g ref="char:EOLhyphen"/>mour of proofs, and have her long pikes which her beares about her in her preeches, well ſt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld and ſtiffe on all her occaſions when her coes to incounter her wives bodies to bodies, naked or in her Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>let of her ſhirts and her ſmocks in her fields of her peds or her Coa<g ref="char:EOLhyphen"/>ches, or her ſhall be ſure her wives will denounce open wars againſt her, and never acree to peace, till her Embaſſadour of Wales have come to her houſes, and at her doores proclaim'd her Cuckolds.</p>
+            <p>H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſecond Article which her offer in the behalfe of her create Princeſſes, her wives to her ſubjects her husbands is, That whereas her uſed in her winter ſeaſons not to firke her Tobies, nip her Nar<g ref="char:EOLhyphen"/>divies, ſmooke her phob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſes, tickle her Cuquoques, or which is in her plaine welch Engliſh whip her jetros, or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounce her podies: Her muſt be ſure to give her her due benevolence at leaſt twice every night, and once after her dinners called nooning, for her trink<g ref="char:EOLhyphen"/>ings betwixt her meales, or her does menace her accuſtomed p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocla<g ref="char:EOLhyphen"/>mation of wars; which is to cry Cuckow to her faces; and her wives doe threaten alſo to goe to peds to her Iournimen, and her eld<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt or well-grown prentices, &amp; experience her with one of her forem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns.</p>
+            <p>Her third Article which her tenders her of peace is, that her huſ<g ref="char:EOLhyphen"/>bands call her wives ſweet Chucks, Honies and Pigs-nies, though her call her Roagues and Raſcalls, nay beaſts and Cuckolds; that her beware how <hi>her</hi> uſe <hi>her</hi> hands, or often to beſtow on <hi>her</hi> armes or <hi>her</hi> ſhoulders <hi>her</hi> plows or <hi>her</hi> paſtinadoes, though <hi>her</hi> wives breake <hi>her</hi> pates with <hi>her</hi> Ladles or <hi>her</hi> Skimmers; or if <hi>her</hi> will not acree to this <hi>her</hi> Article of peace without <hi>her</hi> exceptions, <hi>her</hi> is in all <hi>her</hi> names to denounce <hi>her</hi> Husbands open wars and defiances, which ſhall laſt till her houſes be too hot to hold <hi>her,</hi> and till <hi>her</hi> boyes as <hi>her</hi> walks <hi>her</hi> ſtreetes uſe <hi>her</hi> Embaſſadours Language, and cry out <hi>Cuckows.</hi> Her fourth Article is, that as <hi>her Spring</hi> is freſh &amp; creen as <hi>her</hi> Leekes or <hi>her</hi> Onions, <hi>her</hi> firſt bee ſure to take <hi>her</hi> wives into <hi>her</hi> fields and <hi>her</hi> medowes and give <hi>her</hi> creen cowns; <hi>her</hi> muſt alſo
+<pb facs="tcp:155816:3"/>provid <hi>her</hi> new Cloaths (as <hi>her</hi> couſens in Wales doe <hi>her</hi> wives once in ſeaven yeares) and let <hi>her</hi> be in <hi>her</hi> faſhions or <hi>her</hi> will ſet eff <hi>her</hi> wares and <hi>her</hi> commodities by retayls to purchaſe <hi>her</hi> fine habits &amp; new Garments, which may breed much wars and diviſions in <hi>her</hi> families. Her fifth propoſition which <hi>her</hi> maketh to avoyd civill wars and diſſentions betwixt <hi>her</hi> omens and <hi>her</hi> husbands is, that <hi>her</hi> husbands l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>her</hi> wives have <hi>her</hi> wills, or <hi>her</hi> will have it inſpight of <hi>her</hi> teets; that <hi>her</hi> husbands have no feares, nor <hi>her</hi> jealouſies, nor <hi>her</hi> miſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>derſtandings of <hi>her</hi> wives honeſty, though <hi>her</hi> chance to ſee <hi>her</hi> in pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s with <hi>her</hi> friends; for <hi>her</hi> jealouſies as <hi>her</hi> all caknows are <hi>her</hi> author of <hi>her</hi> civill wars; and if <hi>her</hi> husbands crowe yellow in <hi>her</hi> hearts and <hi>her</hi> livers, <hi>her</hi> Embaſſador tells <hi>her</hi> as <hi>her</hi> friend, that <hi>her</hi> ſhall carry <hi>her</hi> enſignes on <hi>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> foreheads, and be ſtander-bearer to her Cuckows or Cuckolds Her ſixt propoſition is, that <hi>her</hi> huſ<g ref="char:EOLhyphen"/>bands muſt ſatisfie <hi>her</hi> wives appetites and <hi>her</hi> longings, which <hi>her</hi> are very ſubject to in <hi>her</hi> Springs, when <hi>her</hi> plood flows in <hi>her</hi> veins and <hi>her</hi> arteries, as if <hi>her</hi> had a mind to have two able mens, one to take <hi>her</hi> up before, and <hi>her</hi> other behind, and carry her in her chaires which her call Sedans, to <hi>her</hi> creat ped at Wares <hi>her</hi> muſt ſuddainly and with all celerities fulfill <hi>her</hi> pleaſures, or it will beget j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrs and prible prables which <hi>her</hi> ſhall hardly appeaſe, without creat perill of being transformed as <hi>her</hi> couſen <hi>Ast<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</hi> Her ſeventh Article is, that <hi>her</hi> muſt in no wiſe hinder <hi>her</hi> wives from going at midnight to <hi>her</hi> couſens labors, though <hi>her</hi> imagine <hi>her</hi> goe to <hi>her</hi> houſes of Hoſpitality, which <hi>her</hi> in welch call Bawdy-houſes, nor in <hi>her</hi> mor<g ref="char:EOLhyphen"/>nings when <hi>her</hi> tincle Tankling bells rings from <hi>her</hi> repavring to <hi>her</hi> ſpirituall exerciſe, with <hi>her</hi> bretheren in <hi>her</hi> Conventicles; not muſt <hi>her</hi> be ſo prophane to thinke <hi>her</hi> is con to <hi>her</hi> podily Recreati<g ref="char:EOLhyphen"/>ons, for then <hi>her</hi> proclaimes <hi>her</hi> open wats as an enemy to <hi>her</hi> peace and tranquility, and worthy to have <hi>her</hi> name of Cuckows.</p>
+            <p>Her eighth Article is, that <hi>her</hi> husbands for beare her Wines and ſtrong trinks, and <hi>her</hi> wicked herb of Rebeccas, for <hi>her</hi> ſtrong rinks make <hi>her</hi> trunks, and cauſes imbecillitys and diſabilitys in the riſing of <hi>her</hi> fleſh, and erecture of <hi>her</hi> members; and <hi>her</hi> Rebeccas makes <hi>her</hi> mouths ſtink like <hi>her</hi> cloſe ſtooles or <hi>her</hi> privys which are be<g ref="char:EOLhyphen"/>ſhitten, ſuch as <hi>her</hi> all caknowes are very odious and odoriferous in her omens noſtrills; if <hi>her</hi> neglect this <hi>her</hi> Article, <hi>her</hi> may kiſſe <hi>her</hi> wives blind ſheeks as ſoone as <hi>her</hi> lips, and for want of doing <hi>her</hi> drudgery <hi>her</hi> ſelves, <hi>her</hi> ſhall bee ſure to have it done by ſome of <hi>her</hi> neighbours. Her ninth Articls for peace is, that <hi>her</hi> husbands be not
+<pb facs="tcp:155816:3"/>familiar with <hi>her</hi> Chamber-maids or <hi>her</hi> Kitchin queanes, nor take <hi>her</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p in <hi>her</hi> holes and <hi>her</hi> corners, for that is her abſolute preach of peace and will admit none of <hi>her</hi> reconciliations or attonements till <hi>her</hi> wives have made <hi>her</hi> looke out before as does <hi>her</hi> town pulls, and then <hi>her</hi> Embaſſador ſhall every day twit <hi>her</hi> in <hi>her</hi> teeth with Cuckows.</p>
+            <p>Her tenth Article, wch is the l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt <hi>her</hi> ſhall propound to <hi>her</hi> husbands is, that <hi>her</hi> ſhall ſuffer <hi>her</hi> wives to conſume <hi>her</hi> eſtates as <hi>her</hi> pleaſes, let <hi>her</hi> keep <hi>her</hi> Caſh and <hi>her</hi> Coynes, and ſheat <hi>her</hi> of what <hi>her</hi> liſts. Let <hi>her</hi> have free quarter in all places of <hi>her</hi> kingdoms, to have as many men as <hi>her</hi> has minds and appetites to ſolace <hi>her</hi> po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies and tickle <hi>her</hi> concupiſence, to winke when <hi>her</hi> ſees <hi>her</hi> in ped with <hi>her</hi> friends as at ſmall faults, and then <hi>her</hi> does teſtifie that in <hi>her</hi> ratification and ſub<g ref="char:EOLhyphen"/>ſcription to theſe <hi>her</hi> ten Articles or Propoſitions, <hi>her</hi> ſhall live as long <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>her</hi> can blow <hi>her</hi> noſe backwards in peace &amp; amities with <hi>her</hi> wives otherwiſe if <hi>her</hi> refuſe to ſet <hi>her</hi> hands to all or any of theſe <hi>her</hi> Articles, <hi>her</hi> Embaſſador has full power to renounce &amp; reclaime <hi>her</hi> open wars and pattailes, worſe then thoſe <hi>her</hi> Country-men had at Keyntons, and the word to give the ſignall to the fight ſhall be Cuckows. Her Em<g ref="char:EOLhyphen"/>paſſador has alſo her treaties and her negotiations with other peoples, and all manner of creatures <hi>her</hi> has a Meſſage in <hi>her</hi> firſt place to doe to all <hi>her</hi> Sectuaries, which is that other will not let <hi>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> haires crowe or weare night-caps, <hi>her</hi> ſhall be ſubj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to take cold on her beads, that if <hi>her</hi> will not leave <hi>her</hi> preaching in Tubs, and <hi>her</hi> falſe Dectrines, <hi>her</hi> ſhall if <hi>her</hi> travaile into Spain be burn'd for <hi>her</hi> hereticks; and <hi>her</hi> was pid to tell <hi>her, her</hi> may ſhance be whipt in E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>glands, or hang'd in cood times for papbling ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>her</hi> blaſphemies and <hi>her</hi> ſectuaries. Her has a Meſſage or Embaſſage, cat <hi>her</hi> as you pleaſe to <hi>her</hi> Cavalliers, that Plunder and take <hi>her</hi> couſens purſes on <hi>her</hi> Kings High-ways, that if <hi>her</hi> doe not mend <hi>her</hi> manners and leave <hi>her</hi> nimming and <hi>her</hi> ſhifts, <hi>her</hi> ſhall rec<g ref="char:EOLhyphen"/>kon <hi>her</hi> yeares by <hi>her Gregorian</hi> account, and finiſh <hi>her</hi> daies with a long Pſalme at <hi>her</hi> Callows; for <hi>her</hi> Embaſſador is to declare, that Plun<g ref="char:EOLhyphen"/>dering is but plaine Burglary or Robbing, it is but the word changed. Her is to denounce open war to all <hi>her</hi> creat fat Bawds, that buy <hi>her</hi> young wenches up that come out of Wales and other of <hi>her</hi> Countries at <hi>her</hi> Carriers, and ſell <hi>her</hi> firginities, though <hi>her</hi> have loſt them five yeares before with ſome of <hi>her</hi> owne couſens, dearer then <hi>her</hi> doe <hi>her</hi> welch Runts, if <hi>her</hi> give not over <hi>her</hi> Trades; <hi>her</hi> houſes ſhall bee plun<g ref="char:EOLhyphen"/>dered on May Day next by <hi>her</hi> Prentices, and <hi>her</hi> bee carried Priſoners in <hi>her</hi> Carts to Bride-well, <hi>her</hi> Powdring-tub, or <hi>her</hi> New-gates, and there <hi>her</hi> ſhall lye without Bayle or Maine-prize. Her is to proclaime
+<pb facs="tcp:155816:4"/>all <hi>her</hi> Taylors Theeves, and all our Bayliffes, Serjeants, and <hi>her</hi> Yeo<g ref="char:EOLhyphen"/>men caknaves. Her is charg'd to doe <hi>her</hi> Meſſage to all Tapſters and Vintners that <hi>her</hi> doe not nick <hi>her</hi> Cans and <hi>her</hi> Quarts, leaſt <hi>her</hi> goe to the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vell for <hi>her</hi> meaſures, and be peaten by <hi>her</hi> trunkards.</p>
+            <p>Her is friendlily to admoniſh all Nations under <hi>her</hi> Suns to beware leaſt <hi>her</hi> plead, more then her trinks, that <hi>her</hi> have a ſpeciall care how <hi>her</hi> goe to wars one with another, leaſt <hi>her</hi> get plows and caknocks on <hi>her</hi> heads an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>her</hi> Cox combs, which may much prejudice <hi>her</hi> healths and <hi>her</hi> welfares. Her would wiſh all <hi>her</hi> Couſens in <hi>her</hi> Kingdomes of England to ſpend no more then <hi>her</hi> gets or buyes in <hi>her</hi> Lands, by <hi>her</hi> Revenues, leaſt <hi>her</hi> call <hi>her</hi> foole for <hi>her</hi> labours, and proclaime <hi>her</hi> to all the world peggars.</p>
+            <p>Her is to pronounce <hi>her</hi> menaces to all <hi>her</hi> Whore-maſters, that <hi>her</hi> ſhall dye of <hi>her</hi> pox, or carry fire in <hi>her</hi> preeches which ſhall burne the reſt of <hi>her</hi> podies, if <hi>her</hi> doe not leave <hi>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> whoring.</p>
+            <p>Her is to tell as <hi>her</hi> part of <hi>her</hi> Embaſſage all <hi>her</hi> Uſurers, that <hi>her</hi> are tammed to creat king Plutarchs hell, where <hi>her</hi> ſhall be kept as ſafe as <hi>her</hi> kept <hi>her</hi> baggs.</p>
+            <p>Her has as part alſo of <hi>her</hi> ſharge to proclaime all omens that have paſtards or ſhildren lawfully begotten out of <hi>her</hi> Matrimonis, and in <hi>her</hi> Wedlocks, cruſhes, that is becauſe <hi>her</hi> let men cruſh <hi>her</hi> podies, and in plaine interpretations ſignifies, that <hi>her</hi> muſt give them her appellati<g ref="char:EOLhyphen"/>ons of Corkatrices, Giminivers or ſtrikers, or as her ancients terme her in Wales, her Harlots or her whores.</p>
+            <p>Her muſt defie all ſuch of <hi>her</hi> couſens for fooles as weare pables, or refuſe mony from <hi>her</hi> betters, and <hi>her</hi> muſt call all <hi>her</hi> back-biters ca<g ref="char:EOLhyphen"/>knaves, <hi>her</hi> Pimps Panders, <hi>her</hi> roaring boyes Raſcalls, and <hi>her</hi> Round-heads Ruſſettings.</p>
+            <p>And this is the effect in priefe of her Embaſſage, which her has prought out of Mountaines of Wales to all peoples and Nations, and if <hi>her</hi> refuſe to hearken to <hi>her</hi> treaties her may ſhuſe, and goe hang her ſelves in her owne Carters, for her neglect of her Vrſhipfull Embaſſa<g ref="char:EOLhyphen"/>dor her Cuckowes that will never chance her notes as her fooles now adayes doe her faſhions, but juſtifie her cries and her Proclamations to her whole orlds, as her is a true Brittaine and a ſhentle-man of Wales.</p>
+         </div>
+         <div type="song">
+            <pb facs="tcp:155816:4"/>
+            <head>HER Embaſſadors Meſſage deſcribed,</head>
+            <opener>to the tune of the merry Pedler, &amp;c.</opener>
+            <lg>
+               <l>ON a day when Jenkin</l>
+               <l>Did walke abroad to heare</l>
+               <l>The Birds rejoyce,</l>
+               <l>With pleaſant voyce,</l>
+               <l>In Spring time of the yeare;</l>
+               <l>Proudly and loudly</l>
+               <l>Her heard a Bird then ſing,</l>
+               <l>Cuckoe, Cuckoe.</l>
+               <l>The Cuckoe never lins,</l>
+               <l>But ſtill doth cry ſo mery merily,</l>
+               <l>And Cuckoe Cuckoe ſings.</l>
+            </lg>
+            <lg>
+               <l>Her thought her had flouted</l>
+               <l>Poore Jenkin with a jeere,</l>
+               <l>And told in ſcorne</l>
+               <l>That the Horne</l>
+               <l>Should on her brow appeare;</l>
+               <l>Soundly and roundly</l>
+               <l>This bird one note doth ſing</l>
+               <l>Cuckoe, Cuckoe,</l>
+               <l>The Cuckoe never lins;</l>
+               <l>But ſtill doth cry ſo merry merily,</l>
+               <l>And Cuckoe Cuckoe ſings.</l>
+            </lg>
+            <lg>
+               <l>It is knowne her Country</l>
+               <l>Doth many profits bring,</l>
+               <l>Sheepe and Goates,</l>
+               <l>And cloath for Coates,</l>
+               <l>And many a good thing;</l>
+               <l>Cheeſes and Freezes,</l>
+               <l>And that fine bird that ſings</l>
+               <l>Cuckoe, Cuckoe.</l>
+               <l>The Cuckoe never lins,</l>
+               <l>But ſtill doth cry ſo mery merily,</l>
+               <l>And Cuckoe Cuckoe ſings.</l>
+               <pb facs="tcp:155816:5"/>
+               <l>Her colour is moſt comely,</l>
+               <l>And a Round-head is ſhe;</l>
+               <l>And yet no Sect</l>
+               <l>She doth reſpect</l>
+               <l>But of her note is free;</l>
+               <l>'Tis pity,</l>
+               <l>in City,</l>
+               <l>That this ſame bird neare ſings</l>
+               <l>Cuckoe, Cuckoe.</l>
+               <l>The Cuckoe never lins;</l>
+               <l>But ſtill doth cry ſo mery merily,</l>
+               <l>And Cuckoe Cuckoe ſings.</l>
+            </lg>
+            <lg>
+               <l>If that ſhe in Cheape-ſide</l>
+               <l>Upon the Croſſe were ſeene,</l>
+               <l>Out of hand,</l>
+               <l>The trayned Band:</l>
+               <l>Would come againſt her in ſpleen;</l>
+               <l>Drumming and Cunning,</l>
+               <l>To kill this bird that ſings</l>
+               <l>Cuckoe, Cuckoe.</l>
+               <l>The Cuckoe never lins,</l>
+               <l>But ſtill doth cry ſo mery merily</l>
+               <l>And Cuckoe, Cuckoe ſings.</l>
+            </lg>
+            <lg>
+               <l>Therefore her Embaſſadour</l>
+               <l>No Pedler is of wares;</l>
+               <l>Her hath no pack</l>
+               <l>Upon her backe,</l>
+               <l>Nor for no Cuckold cares;</l>
+               <l>Without feare</l>
+               <l>Doth jeere,</l>
+               <l>And in one note ſtill ſings</l>
+               <l>Cuckoe, Cuckoe.</l>
+               <l>The Cuckoe never lins,</l>
+               <l>But ſtill doth cry ſo mery merily,</l>
+               <l>And Cuckoe, Cuckoe ſings.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
